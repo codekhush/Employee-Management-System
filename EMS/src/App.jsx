@@ -1,4 +1,5 @@
 import { Link, Outlet } from "react-router-dom";
+import "./styles/App.css"
 export const App = () => {
   console.log("App is rendering...");
   return (

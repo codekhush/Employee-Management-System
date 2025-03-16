@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+.body_cont{
+  border: 1px solid black;
+  width: 100vw;
+  height: 100vh;
+}
+.header{
+  border: 1px solid black;
+  display: flex;
+}
